@@ -1,0 +1,21 @@
+{
+  "name": "ai-powered-chat-app",
+  "version": "1.0.0",
+  "description": "this is demo chat app that has been developed using AI capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TharakaDissanayake/ai-powered-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TharakaDissanayake/ai-powered-chat-app/issues"
+  },
+  "homepage": "https://github.com/TharakaDissanayake/ai-powered-chat-app#readme"
+}
